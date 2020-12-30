@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+*{
+	margin=0;
+	padding=0;
+	color: white;
+	box-sizing: border-box;
+}
+.logo{
+	padding-right: 100px;
+	height: 105px;
+}
+.header{
+	height: 120vh;
+	background-image: url('kak.png');
+}
+#heading{
+	color: white;
+	font-size: 50px;
+	padding-top: 10px;
+	padding-right: 0px;
+	font-family: 'Roboto',sans-serif;
+}
+#subtitle{
+	color: #1bff00;	
+	
+}
+li a{
+	color: white;
+	font-family: 'Roboto',sans-serif;
+}
+#upperthing{
+	height: 100vh;
+}
+#middle{
+	color: white;
+}
+#mid{
+	height: 100px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+.contact-form{
+	max-width: 800px;
+	padding-top: 0px;
+	margin: 0 auto;
+	background: rgba(0,0,0,0.4);
+	padding: 20px;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: column;	
+	box-shadow: 0 0 10px rgba(0,0,0,0.4);
+
+}
+.input-fields{
+	display: flex;
+	flex-direction: column;			
+	margin-right: 4%;
+}
+.input{
+	margin: 10px 0;
+	background: transparent;
+	border: 0;
+	border-bottom: 2px solid white;
+	padding:15px;
+	color: white;
+	width: 100%;
+}
+::-webkit-input-placeholder{
+	color: #ffffff;
+}
+.btn{
+	background: green;
+	text-align: center;
+	padding: 15px;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+
+}
+.row{
+	flex-direction: row;
+}
+.wrapper{
+	padding-bottom: 50px;
+}
