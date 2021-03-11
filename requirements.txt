@@ -1,22 +1,9 @@
 # packages in environment at /home/pra17dod/anaconda3/envs/fk:
 #
-# Name                    Version                   Build  Channel
-_libgcc_mutex             0.1                        main  
-blas                      1.0                    openblas  
-ca-certificates           2021.1.19            h06a4308_1  
-certifi                   2020.12.5        py39h06a4308_0  
-click                     7.1.2              pyhd3eb1b0_0  
-cycler                    0.10.0           py39h06a4308_0  
-dbus                      1.13.18              hb2f20db_0  
+# Name            
 expat                     2.2.10               he6710b0_2  
 flask                     1.1.2              pyhd3eb1b0_0  
-fontconfig                2.13.1               h6c09931_0  
-freetype                  2.10.4               h5ab3b9f_0  
-glib                      2.67.4               h36276a3_1  
-gst-plugins-base          1.14.0               h8213a91_2  
-gstreamer                 1.14.0               h28cd5cc_2  
 gunicorn                  20.0.4                   pypi_0    pypi
-icu                       58.2                 he6710b0_3  
 itsdangerous              1.1.0              pyhd3eb1b0_0  
 jinja2                    2.11.3             pyhd3eb1b0_0  
 joblib                    1.0.1              pyhd3eb1b0_0  
